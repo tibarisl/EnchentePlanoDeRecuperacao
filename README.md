@@ -164,9 +164,7 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
   Devem ser removidos dos enlatados os rótulos e deixados de molho em solução de cloro.
   
   **Produtos necessários:**
-  1. Prod1
-  2. Prod2
-  3. Prod3
+  1. Solução de Cloro (1 litro de agua para 10 MLs de cloro)
   
   **Vídeo:**
   
