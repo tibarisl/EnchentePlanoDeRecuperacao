@@ -17,14 +17,15 @@ Obrigado a todos e muita força nessa hora!
 Nesta seção vamos tentar descrever algumas idéias que podem ser utilizadas para organizar o processo de limpeza das casas afetadas. Como o recuo da água deve ser gradual, é possivel que determinadas atividades possam ser executadas em momentos distintos.
 
 ## Riscos:
-Acessar o local pode ser muito perigoso, tanto pelo risco de contaminação na água como pela própria estrutura do imóvel.  Em virtude disto alguns cuidados são essenciais:
-
-1. Revisar a estrutura antes de acessar.
-2. Utilizar equipamentos tais como luvas, botas, macacão, etc, para evitar o contato com a água.
-3. Se desloque no mínimo em duplas, caso ocorra alguma eventualidade que pode necessitar de apoio imediato ou pedido de ajuda.
 
 > [!CAUTION]
-> Não fique em contato com a água da enchente até mesmo durante a limpeza dos itens. Existe uma série de bacterias e doenças trazidas pela água como leptospirose e hepatite.
+> Leia atentamente aos itens a seguir, existem diversos riscos associados na situação em que estamos passando.
+
+Em virtude desta situação alguns cuidados são essenciais:
+
+1. Revisar a estrutura antes de acessar o local. Acessar o local pode ser muito perigoso, tanto pelo risco de contaminação na água como pela própria estrutura do imóvel.
+2. Utilizar equipamentos tais como luvas, botas, macacão, etc, para evitar o contato com a água. Não fique em contato com a água da enchente até mesmo durante a limpeza dos itens. Existe uma série de bacterias e doenças trazidas pela água como leptospirose e hepatite.
+3. Se desloque no mínimo em duplas, caso ocorra alguma eventualidade que pode necessitar de apoio imediato ou pedido de ajuda.
 
 
 ## Etapas de acesso ao imóvel:
