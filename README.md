@@ -2,7 +2,7 @@
 
 Olá a todos,
 
-Esta página tem por objetivo tentar reunir o máximo de informações para ajudar as pessoas a como lidar com os itens afetados pela enchente que arrazou nosso RS. A idéia foi reunir o máximo de informações sobre como ligar com todos os móveis, eletronicos e demais itens afetados utilziando um no mínimo 3 fontes de referência, com o intuito de identificar formas realmente eficazes no tratamento dos itens afetados.
+Esta página tem por objetivo tentar reunir o máximo de informações para ajudar as pessoas a como lidar com os itens afetados pela enchente que arrazou nosso RS. A idéia foi reunir o máximo de informações sobre como lidar com todos os móveis, eletronicos e demais itens afetados utilziando um no mínimo 3 fontes de referência, com o intuito de identificar formas realmente eficazes no tratamento dos itens afetados.
 
 > [!IMPORTANT]
 > A ideia é somente ajudar! Caso algum dos métodos informados não tenha o resultado esperado pedimos desculpas, mas baseado em nossas pesquisas foi o que aparentemente atenderia. Esperamos ajudar de alguma forma, mas não podemos garantir o sucesso do processo.
