@@ -53,12 +53,16 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 Segundo as orientações de especialistas, estes itens não devem ser recuperados.
 
 Sofa, almofadas, travesseiros, edredons e colchões não devem ser recuperados.
-> Materiais absorventes com uma alta concentração de bactérias.
+> Materiais absorventes com uma alta concentração de bactérias[^1].
+
+[^1]: Saiba como limpar e recuperar objetos após uma enchente (https://www.youtube.com/watch?v=4QRxIcmjWqY)
+
+################################################################################################
 
 # Exemplos:
 Referencia: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-################################################################################################
+
 ### 1. Item X
 
 **Produtos necessários:**
@@ -73,7 +77,6 @@ Referencia: https://docs.github.com/pt/get-started/writing-on-github/getting-sta
 [^2]: To add line breaks within a footnote.
 [^3]: To add line breaks within a footnote.
 
-################################################################################################
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
