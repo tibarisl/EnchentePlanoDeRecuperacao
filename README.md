@@ -9,7 +9,9 @@ Esta página tem por objetivo tentar reunir o máximo de informações para ajud
 
 
 Obrigado a todos e muita força nessa hora!
-<!-- ORGANIZAÇÃO ################################################################################################ -->
+<!--  ################################################################################################ -->
+<!--  #######################################    ORGANIZAÇÃO      #################################### -->
+<!--  ################################################################################################ -->
 # Organização:
 
 Nesta seção vamos tentar descrever algumas idéias que podem ser utilizadas para organizar o processo de limpeza das casas afetadas. Como o recuo da água deve ser gradual, é possivel que determinadas atividades possam ser executadas em momentos distintos.
@@ -35,46 +37,158 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 - Agua na canela:
 - Sem agua: 
 
-<!-- LIMPEZA ################################################################################################ -->
+<!--  ################################################################################################ -->
+<!--  ##########################################    LIMPEZA      ##################################### -->
+<!--  ################################################################################################ -->
 # Limpeza:
 
+<!--  ################################################################################################################################################### -->
+<!--  ################################################################################################################################################### -->
 ## Imóvel:
 
+### Azuleijos
+  
+  **Procedimento:**
+  Após limpeza bruta, usando um pano, limpar com solução de cloro.
+  
+  **Produtos necessários:**
+  1. Solução de Cloro (1 litro de agua para 10 MLs de cloro)
+  
+  **Vídeo:**
+
+  **Referencias:**
+  > - 📕 - [Saiba como limpar e recuperar objetos após uma enchente](https://www.youtube.com/watch?v=4QRxIcmjWqY)
+  > - 📕 - B
+  > - 📕 - C
+
+**________________________________________________________________________________________________________________________________________________________**
+
+<!--  ################################################################################################################################################### -->
+<!--  ################################################################################################################################################### -->
 ## Objetos:
+
+### Sofá
+
+  > [!WARNING]
+  > Segundo a seção [itens que não devem ser recuperados](README.md#itens-que-não-devem-ser-recuperados), este item pode oferecer algum risco a saúde e por isto não deveria ser recuperado.
+  
+  **Procedimento:**
+  Akaskodskakdskdkpakosd....
+  
+  **Produtos necessários:**
+  1. Prod1
+  2. Prod2
+  3. Prod3
+  
+  **Vídeo:**
+  
+  **Referencias:**
+  > - 📕 - A
+  > - 📕 - B
+  > - 📕 - C
+
+**________________________________________________________________________________________________________________________________________________________**
+
+### Cortinas
+
+  **Procedimento:**
+  Lavar com agua fervente e sabão.
+  
+  **Produtos necessários:**
+  1. Sabão
+  2. Prod2
+  3. Prod3
+  
+  **Vídeo:**
+  
+  **Referencias:**
+  > - 📕 - [Saiba como limpar e recuperar objetos após uma enchente](https://www.youtube.com/watch?v=4QRxIcmjWqY)
+  > - 📕 - B
+  > - 📕 - C
+
+**________________________________________________________________________________________________________________________________________________________**
+
+### Talheres, facas, copos, louças em geral
+
+  **Procedimento:**
+  Limpar a louça, colocar de molho em uma solução de cloro e água e depois realizar a lavagem normal. O período de molho é de 5 a 10 minutos.
+  
+  **Produtos necessários:**
+  1. Solução de Cloro (1 litro de agua para 10 MLs de Cloro)
+  
+  **Vídeo:**
+
+  **Referencias:**
+  > - 📕 - [Saiba como limpar e recuperar objetos após uma enchente](https://www.youtube.com/watch?v=4QRxIcmjWqY)
+  > - 📕 - B
+  > - 📕 - C
+
+**________________________________________________________________________________________________________________________________________________________**
+
+### Azuleijos
+  
+  **Procedimento:**
+  Após limpeza bruta, usando um pano, limpar com solução de cloro.
+  
+  **Produtos necessários:**
+  1. Solução de Cloro (1 litro de agua para 10 MLs de cloro)
+  
+  **Vídeo:**
+
+  **Referencias:**
+  > - 📕 - [Saiba como limpar e recuperar objetos após uma enchente](https://www.youtube.com/watch?v=4QRxIcmjWqY)
+  > - 📕 - B
+  > - 📕 - C
+
+**________________________________________________________________________________________________________________________________________________________**
+
+<!--  ################################################################################################################################################### -->
+<!--  ################################################################################################################################################### -->
 
 ## Itens que não devem ser recuperados
 
-Segundo as orientações de especialistas, estes itens não devem ser recuperados.
+Segundo as orientações encontradas nas pesquisas estes itens não devem ser recuperados.
 
-Sofa, almofadas, travesseiros, edredons e colchões não devem ser recuperados.
-> Materiais absorventes com uma alta concentração de bactérias[^1].
+### Materiais absorventes com uma alta concentração de bactérias.
+
+> Sofa, almofadas, travesseiros, edredons e colchões não devem ser recuperados.
+
+📕 - Saiba como limpar e recuperar objetos após uma enchente (https://www.youtube.com/watch?v=4QRxIcmjWqY)
+
+**________________________________________________________________________________________________________________________________________________________**
+- B
 
 [^1]: Saiba como limpar e recuperar objetos após uma enchente (https://www.youtube.com/watch?v=4QRxIcmjWqY)
 
-<!-- EXEMPLOS E TEMPLATES ################################################################################# -->
+<!--  ################################################################################################ -->
+<!--  ####################################    EXEMPLOS E TEMPLATES      ############################## -->
+<!--  ################################################################################################ -->
 
 # Exemplos e templates:
 Referencia: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ### Item X
 
-> [!WARNING]
-> Segundo a seção [itens que não devem ser recuperados](README.md#itens-que-não-devem-ser-recuperados), este item pode oferecer algum risco a saúde e por isto não deveria ser recuperado.
+  > [!WARNING]
+  > Segundo a seção [itens que não devem ser recuperados](README.md#itens-que-não-devem-ser-recuperados), este item pode oferecer algum risco a saúde e por isto não deveria ser recuperado.
+  
+  **Procedimento:**
+  Akaskodskakdskdkpakosd....
+  
+  **Produtos necessários:**
+  1. Prod1
+  2. Prod2
+  3. Prod3
+  
+  **Vídeo:**
+  
+  **Referencias:**
+  > - 📕 - A
+  > - 📕 - B
+  > - 📕 - C
 
-**Procedimento:**
-Akaskodskakdskdkpakosd....
+**________________________________________________________________________________________________________________________________________________________**
 
-**Produtos necessários:**
-1. Prod1
-2. Prod2
-3. Prod3
 
-**Vídeo:**
-
-**Referencias:**
-> - 📕 - A
-> - 📕 - B
-> - 📕 - C
-
-################################################################################################
+<!-- FIM DO ARQUIVO ################################################################################# -->
 
