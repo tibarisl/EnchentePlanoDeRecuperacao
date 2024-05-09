@@ -16,6 +16,9 @@ Nesta seção vamos tentar descrever algumas idéias que podem ser utilizadas pa
 
 Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser possivel realizar o acesso ao imóvel para determinadas ações.
 
+> [!CAUTION]
+> Já evidenciamos o poder da água em tirar vidas! Não arrisque. Apesar dos níveis de abdomen e cintura serem citados nas etapas, só vá nestas condições se realmente for seguro.
+
 - Agua no abdomen:
 - Agua na cintura:
 - Agua na canela:
