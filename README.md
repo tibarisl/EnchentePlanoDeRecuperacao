@@ -125,10 +125,10 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 
 **________________________________________________________________________________________________________________________________________________________**
 
-### Azuleijos
+### Móveis (Armário, balcao, prateleiras, móveis em geral)
   
   **Procedimento:**
-  Após limpeza bruta, usando um pano, limpar com solução de cloro.
+  Após limpeza bruta, usando um pano, limpar com solução de cloro encharcando o pano.
   
   **Produtos necessários:**
   1. Solução de Cloro (1 litro de agua para 10 MLs de cloro)
@@ -156,9 +156,7 @@ Segundo as orientações encontradas nas pesquisas estes itens não devem ser re
 📕 - Saiba como limpar e recuperar objetos após uma enchente (https://www.youtube.com/watch?v=4QRxIcmjWqY)
 
 **________________________________________________________________________________________________________________________________________________________**
-- B
 
-[^1]: Saiba como limpar e recuperar objetos após uma enchente (https://www.youtube.com/watch?v=4QRxIcmjWqY)
 
 <!--  ################################################################################################ -->
 <!--  ####################################    EXEMPLOS E TEMPLATES      ############################## -->
@@ -166,29 +164,6 @@ Segundo as orientações encontradas nas pesquisas estes itens não devem ser re
 
 # Exemplos e templates:
 Referencia: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-### Item X
-
-  > [!WARNING]
-  > Segundo a seção [itens que não devem ser recuperados](README.md#itens-que-não-devem-ser-recuperados), este item pode oferecer algum risco a saúde e por isto não deveria ser recuperado.
-  
-  **Procedimento:**
-  Akaskodskakdskdkpakosd....
-  
-  **Produtos necessários:**
-  1. Prod1
-  2. Prod2
-  3. Prod3
-  
-  **Vídeo:**
-  
-  **Referencias:**
-  > - 📕 - A
-  > - 📕 - B
-  > - 📕 - C
-
-**________________________________________________________________________________________________________________________________________________________**
-
 
 <!-- FIM DO ARQUIVO ################################################################################# -->
 
