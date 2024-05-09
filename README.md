@@ -158,10 +158,10 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 
 ## Diversos:
 
-### Alimentos (Enlatados e potes de vídro)
+### Alimentos (Somente enlatados)
 
   **Procedimento:**
-  Akaskodskakdskdkpakosd....
+  Devem ser removidos dos enlatados os rótulos e deixados de molho em solução de cloro.
   
   **Produtos necessários:**
   1. Prod1
