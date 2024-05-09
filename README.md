@@ -23,6 +23,9 @@ Acessar o local pode ser muito perigoso, tanto pelo risco de contaminação na �
 2. Utilizar equipamentos tais como luvas, botas, macacão, etc, para evitar o contato com a água.
 3. Se desloque no mínimo em duplas, caso ocorra alguma eventualidade que pode necessitar de apoio imediato ou pedido de ajuda.
 
+> [!CAUTION]
+> Não fique em contato com a água da enchente até mesmo durante a limpeza dos itens. Existe uma série de bacterias e doenças trazidas pela água como leptospirose e hepatite.
+
 
 ## Etapas de acesso ao imóvel:
 
@@ -78,13 +81,10 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 <!--  ################################################################################################################################################### -->
 ## Objetos:
 
-### Sofá
+### Roupas
 
-  > [!WARNING]
-  > Segundo a seção [itens que não devem ser recuperados](README.md#itens-que-não-devem-ser-recuperados), este item pode oferecer algum risco a saúde e por isto não deveria ser recuperado.
-  
   **Procedimento:**
-  Akaskodskakdskdkpakosd....
+  Tirar o grosso de sujeira das roupas. Após isso as roupas devem ser lavadas com agua fervida a 100 graus. Se não eliminar toda a sujeira, deve ser lavados novamente.
   
   **Produtos necessários:**
   1. Prod1
@@ -94,7 +94,27 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
   **Vídeo:**
   
   **Referencias:**
-  > - 📕 - A
+  > - 📕 - [Saiba como limpar e recuperar objetos após uma enchente](https://www.youtube.com/watch?v=4QRxIcmjWqY)
+  > - 📕 - B
+  > - 📕 - C
+
+### Sofá
+
+  > [!WARNING]
+  > Segundo a seção [itens que não devem ser recuperados](README.md#itens-que-não-devem-ser-recuperados), este item pode oferecer algum risco a saúde e por isto não deveria ser recuperado.
+  
+  **Procedimento:**
+  Em construção.
+  
+  **Produtos necessários:**
+  1. Prod1
+  2. Prod2
+  3. Prod3
+  
+  **Vídeo:**
+  
+  **Referencias:**
+  > - 📕 - [Saiba como limpar e recuperar objetos após uma enchente](https://www.youtube.com/watch?v=4QRxIcmjWqY)
   > - 📕 - B
   > - 📕 - C
 
@@ -161,7 +181,7 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 ### Alimentos (Somente enlatados)
 
   **Procedimento:**
-  Devem ser removidos dos enlatados os rótulos e deixados de molho em solução de cloro.
+  Devem ser removidos dos enlatados os rótulos e deixados de molho em solução de cloro por 5 a 10 minutos. Depois disso lavar.
   
   **Produtos necessários:**
   1. Solução de Cloro (1 litro de agua para 10 MLs de cloro)
