@@ -32,10 +32,21 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 > Já evidenciamos o poder da água em tirar vidas, não arrisque! Apesar dos níveis de abdomen e cintura serem citados nas etapas, só vá nestas condições se realmente for seguro.
 > Considere ainda que a sua casa pode estar com a estrutura em condições de risco. Tenha toda a cautela possivel.
 
-- Agua no abdomen:
-- Agua na cintura:
-- Agua na canela:
-- Sem agua: 
+- Agua relativamente alta (no peito):
+
+  Se possivel, avaliar a estrutura do imovel e planejamento de acesso e ferramentas para as etapas seguintes. O ideal seria evitar esta etapa devido ao risco. 
+  
+- Agua nível médio (cintura):
+
+  Acesso do imóvel para remoção das roupas, eletro domésticos, eletronicos, itens pequenos, etc. Neste momento será possivel tentar restuarar as roupas e demais itens, isto vai dar mais tempo para focar na limpeza da casa e não dos itens.  
+  
+- Agua na nível baixo (canela):
+
+  Limpeza do grosso com a própria agua da enchente e remoção de detritos e barro grosso se possivel. Remoção dos itens anteriores se ainda não foi possivel.
+  
+- Sem agua:
+
+  Limpeza total.
 
 <!--  ################################################################################################ -->
 <!--  ##########################################    LIMPEZA      ##################################### -->
