@@ -20,6 +20,7 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 
 > [!CAUTION]
 > Já evidenciamos o poder da água em tirar vidas, não arrisque! Apesar dos níveis de abdomen e cintura serem citados nas etapas, só vá nestas condições se realmente for seguro.
+> Considere ainda que a sua casa pode estar com a estrutura em condições de risco. Tenha toda a cautela possivel.
 
 - Agua no abdomen:
 - Agua na cintura:
@@ -47,6 +48,12 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 
 ## Objetos:
 
+## Itens que não devem ser recuperados
+
+Segundo as orientações de especialistas, estes itens não devem ser recuperados.
+
+Sofa, almofadas, travesseiros, edredons e colchões não devem ser recuperados.
+> Materiais absorventes com uma alta concentração de bactérias.
 
 # Exemplos:
 Referencia: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
