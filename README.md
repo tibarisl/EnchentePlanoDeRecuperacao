@@ -4,7 +4,9 @@ Olá a todos,
 
 Esta página tem por objetivo tentar reunir o máximo de informações para ajudar as pessoas a como lidar com os itens afetados pela enchente que arrazou nosso RS. A idéia foi reunir o máximo de informações sobre como ligar com todos os móveis, eletronicos e demais itens afetados utilziando um no mínimo 3 fontes de referência, com o intuito de identificar formas realmente eficazes no tratamento dos itens afetados.
 
-A ideia é somente ajudar! Caso algum dos métodos exibidos não surtir o resultado esperado, pedimos desculpas, mas baseado em nossas pesquisas foi o que aparentemente atenderia. Espero que ajude de alguma forma.
+> [!IMPORTANT]
+> A ideia é somente ajudar! Caso algum dos métodos informados não tenha o resultado esperado pedimos desculpas, mas baseado em nossas pesquisas foi o que aparentemente atenderia. Esperamos ajudar de alguma forma, mas não podemos garantir o sucesso do processo.
+
 
 Obrigado a todos e muita força nessa hora!
 
@@ -17,7 +19,7 @@ Nesta seção vamos tentar descrever algumas idéias que podem ser utilizadas pa
 Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser possivel realizar o acesso ao imóvel para determinadas ações.
 
 > [!CAUTION]
-> Já evidenciamos o poder da água em tirar vidas! Não arrisque. Apesar dos níveis de abdomen e cintura serem citados nas etapas, só vá nestas condições se realmente for seguro.
+> Já evidenciamos o poder da água em tirar vidas, não arrisque! Apesar dos níveis de abdomen e cintura serem citados nas etapas, só vá nestas condições se realmente for seguro.
 
 - Agua no abdomen:
 - Agua na cintura:
@@ -27,10 +29,44 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 
 # Limpeza:
 
+## Imóvel:
+
+### Item 1
+
+**Produtos necessários:**
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+**Procedimento**
+
+**Referencias:**
+[^1]: My reference.
+[^2]: To add line breaks within a footnote.
+[^3]: To add line breaks within a footnote.
+
+## Objetos:
+
 
 # Exemplos:
 Referencia: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+################################################################################################
+### 1. Item X
+
+**Produtos necessários:**
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+**Procedimento**
+
+**Referencias:**
+[^1]: My reference.
+[^2]: To add line breaks within a footnote.
+[^3]: To add line breaks within a footnote.
+
+################################################################################################
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
