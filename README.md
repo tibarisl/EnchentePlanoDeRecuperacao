@@ -1,9 +1,14 @@
-# EnchentePlanoDeRecuperacao
-Plano de recuperação e limpeza de todos os itens afetados por enchentes.
+# Plano de recuperação e limpeza de todos os itens afetados por enchentes.
 
+Olá a todos,
 
+Esta página tem por objetivo tentar reunir o máximo de informações para ajudar as pessoas a como lidar com os itens afetados pela enchente que arrazou nosso RS. A idéia foi reunir o máximo de informações sobre como ligar com todos os móveis, eletronicos e demais itens afetados utilziando um no mínimo 3 fontes de referência, com o intuito de identificar formas realmente eficazes no tratamento dos itens afetados.
 
-Exemplos:
+A ideia é somente ajudar! Caso algum dos métodos exibidos não surtir o resultado esperado, pedimos desculpas, mas baseado em nossas pesquisas foi o que aparentemente atenderia. Espero que ajude de alguma forma.
+
+Obrigado a todos e muita força nessa hora!
+
+# Exemplos:
 Referencia: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 # A first-level heading
