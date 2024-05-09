@@ -160,9 +160,6 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 
 ### Alimentos (Enlatados e potes de vídro)
 
-  > [!WARNING]
-  > Segundo a seção [itens que não devem ser recuperados](README.md#itens-que-não-devem-ser-recuperados), este item pode oferecer algum risco a saúde e por isto não deveria ser recuperado.
-  
   **Procedimento:**
   Akaskodskakdskdkpakosd....
   
@@ -190,6 +187,14 @@ Segundo as orientações encontradas nas pesquisas estes itens não devem ser re
 ### Materiais absorventes com uma alta concentração de bactérias.
 
 > Sofa, almofadas, travesseiros, edredons e colchões não devem ser recuperados.
+
+📕 - Saiba como limpar e recuperar objetos após uma enchente (https://www.youtube.com/watch?v=4QRxIcmjWqY)
+
+**________________________________________________________________________________________________________________________________________________________**
+
+### Alimentos / comida.
+
+> Qualquer alimento / comida deve ser descartada com exceção de enlatados lácrados.
 
 📕 - Saiba como limpar e recuperar objetos após uma enchente (https://www.youtube.com/watch?v=4QRxIcmjWqY)
 
