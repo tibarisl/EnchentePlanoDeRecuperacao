@@ -78,6 +78,24 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 
 **________________________________________________________________________________________________________________________________________________________**
 
+### Caixa d'água
+
+  **Procedimento:**
+  Deve-se evacuar a caixa d´agua, abrindo todas as torneiras para tirar a agua contaminada, realizar uma limpeza, enchear a caixa d'agua com cloro na mesma proporção da solução de cloro, deixar de molho por 15 minutos e depois abrir todas as torneiras com esta solução para que seja feita a limpeza das tubulações.
+    
+  **Produtos necessários:**
+  1. Solução de Cloro (1 litro de agua para 10 MLs de Cloro)
+  
+  **Vídeo:**
+  
+  **Referencias:**
+  > - 📕 - [Saiba como limpar e recuperar objetos após uma enchente](https://www.youtube.com/watch?v=4QRxIcmjWqY)
+  > - 📕 - B
+  > - 📕 - C
+
+**________________________________________________________________________________________________________________________________________________________**
+
+
 <!--  ################################################################################################################################################### -->
 <!--  ################################################################################################################################################### -->
 ## Objetos:
