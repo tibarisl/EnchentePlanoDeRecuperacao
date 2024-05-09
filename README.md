@@ -145,6 +145,33 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 <!--  ################################################################################################################################################### -->
 <!--  ################################################################################################################################################### -->
 
+## Diversos:
+
+### Alimentos (Enlatados e potes de vídro)
+
+  > [!WARNING]
+  > Segundo a seção [itens que não devem ser recuperados](README.md#itens-que-não-devem-ser-recuperados), este item pode oferecer algum risco a saúde e por isto não deveria ser recuperado.
+  
+  **Procedimento:**
+  Akaskodskakdskdkpakosd....
+  
+  **Produtos necessários:**
+  1. Prod1
+  2. Prod2
+  3. Prod3
+  
+  **Vídeo:**
+  
+  **Referencias:**
+  > - 📕 - A
+  > - 📕 - B
+  > - 📕 - C
+
+**________________________________________________________________________________________________________________________________________________________**
+
+<!--  ################################################################################################################################################### -->
+<!--  ################################################################################################################################################### -->
+
 ## Itens que não devem ser recuperados
 
 Segundo as orientações encontradas nas pesquisas estes itens não devem ser recuperados.
