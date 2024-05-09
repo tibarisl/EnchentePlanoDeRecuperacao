@@ -14,6 +14,14 @@ Obrigado a todos e muita força nessa hora!
 
 Nesta seção vamos tentar descrever algumas idéias que podem ser utilizadas para organizar o processo de limpeza das casas afetadas. Como o recuo da água deve ser gradual, é possivel que determinadas atividades possam ser executadas em momentos distintos.
 
+## Riscos:
+Acessar o local pode ser muito perigoso, tanto pelo risco de contaminação na água como pela própria estrutura do imóvel.  Em virtude disto alguns cuidados são essenciais:
+
+1. Revisar a estrutura antes de acessar.
+2. Utilizar equipamentos tais como luvas, botas, macacão, etc, para evitar o contato com a água.
+3. Se desloque no mínimo em duplas, caso ocorra alguma eventualidade que pode necessitar de apoio imediato ou pedido de ajuda.
+
+
 ## Etapas de acesso ao imóvel:
 
 Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser possivel realizar o acesso ao imóvel para determinadas ações.
@@ -34,18 +42,6 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 
 ### Item 1
 
-**Produtos necessários:**
-1. BBB
-2. AAA
-3. CCCC
-
-**Procedimento**
-
-**Referencias:**
-[^1]: My reference.
-[^2]: To add line breaks within a footnote.
-[^3]: To add line breaks within a footnote.
-
 ## Objetos:
 
 ## Itens que não devem ser recuperados
@@ -62,20 +58,28 @@ Sofa, almofadas, travesseiros, edredons e colchões não devem ser recuperados.
 # Exemplos:
 Referencia: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+################################################################################################
+_ Item X
 
-### 1. Item X
+> [!WARNING]
+> Segundo a seção [Contribution guidelines for this project](README.md#itens-que-não-devem-ser-recuperados)
 
 **Produtos necessários:**
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
+1. Prod1
+2. Prod2
+3. Prod3
 
-**Procedimento**
+**Procedimento:**
+Akaskodskakdskdkpakosd....
+
+**Vídeo:**
 
 **Referencias:**
-[^1]: My reference.
-[^2]: To add line breaks within a footnote.
-[^3]: To add line breaks within a footnote.
+> - 📕 - A
+> - 📕 - B
+> - 📕 - C
+
+################################################################################################
 
 # A first-level heading
 ## A second-level heading
