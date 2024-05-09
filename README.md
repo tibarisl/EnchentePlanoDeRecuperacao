@@ -8,6 +8,23 @@ A ideia é somente ajudar! Caso algum dos métodos exibidos não surtir o result
 
 Obrigado a todos e muita força nessa hora!
 
+# Organização:
+
+Nesta seção vamos tentar descrever algumas idéias que podem ser utilizadas para organizar o processo de limpeza das casas afetadas. Como o recuo da água deve ser gradual, é possivel que determinadas atividades possam ser executadas em momentos distintos.
+
+## Etapas de acesso ao imóvel:
+
+Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser possivel realizar o acesso ao imóvel para determinadas ações.
+
+- Agua no abdomen:
+- Agua na cintura:
+- Agua na canela:
+- Sem agua: 
+
+
+# Limpeza:
+
+
 # Exemplos:
 Referencia: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
