@@ -123,17 +123,17 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
   > Segundo a seção [itens que não devem ser recuperados](README.md#itens-que-não-devem-ser-recuperados), este item pode oferecer algum risco a saúde e por isto não deveria ser recuperado.
   
   **Procedimento:**
-  Em construção.
+  Lave os os sofás primeiro com sabão em pó. Após seco faça uma desinfecção no padrão meio copo de água para meio copo de água sanitária. Deixe no sol por quatro horas que daí para usar o colchão por muitos anos"
   
   **Produtos necessários:**
-  1. Prod1
+  1. Agua sanitária
   2. Prod2
   3. Prod3
   
   **Vídeo:**
   
   **Referencias:**
-  > - 📕 - [Saiba como limpar e recuperar objetos após uma enchente](https://www.youtube.com/watch?v=4QRxIcmjWqY)
+  > - 📕 - [Saiba como limpar móveis e utensílios domésticos depois do temporal](https://g1.globo.com/jornalhoje/0,,MUL1418937-16022,00-SAIBA+COMO+LIMPAR+MOVEIS+E+UTENSILIOS+DOMESTICOS+DEPOIS+DO+TEMPORAL.html#:~:text=Desmonte%20todas%20as%20pe%C3%A7as%20do,meio%20copo%20de%20%C3%A1gua%20sanit%C3%A1ria.)
   > - 📕 - B
   > - 📕 - C
 
@@ -161,7 +161,7 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 ### Talheres, facas, copos, louças em geral
 
   **Procedimento:**
-  Limpar a louça, colocar de molho em uma solução de cloro e água e depois realizar a lavagem normal. O período de molho é de 5 a 10 minutos.
+  Limpar a louça, colocar de molho em uma solução de cloro e água e depois realizar a lavagem normal. O período de molho de 1 hora por segurança. Itens de madeira devem ser descartados.
   
   **Produtos necessários:**
   1. Solução de Cloro (1 litro de agua para 10 MLs de Cloro)
@@ -170,7 +170,7 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 
   **Referencias:**
   > - 📕 - [Saiba como limpar e recuperar objetos após uma enchente](https://www.youtube.com/watch?v=4QRxIcmjWqY)
-  > - 📕 - B
+  > - 📕 - [Saiba como limpar móveis e utensílios domésticos depois do temporal](https://g1.globo.com/jornalhoje/0,,MUL1418937-16022,00-SAIBA+COMO+LIMPAR+MOVEIS+E+UTENSILIOS+DOMESTICOS+DEPOIS+DO+TEMPORAL.html#:~:text=Desmonte%20todas%20as%20pe%C3%A7as%20do,meio%20copo%20de%20%C3%A1gua%20sanit%C3%A1ria.)
   > - 📕 - C
 
 **________________________________________________________________________________________________________________________________________________________**
@@ -178,7 +178,7 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 ### Móveis (Armário, balcao, prateleiras, móveis em geral)
   
   **Procedimento:**
-  Após limpeza bruta, usando um pano, limpar com solução de cloro encharcando o pano.
+  Após limpeza bruta, usando um pano, limpar com solução de cloro encharcando o pano. Os talheres e louças não devem mais ficar em contato com o armário da cozinha em virtude da contaminação da madeira.
   
   **Produtos necessários:**
   1. Solução de Cloro (1 litro de agua para 10 MLs de cloro)
@@ -187,10 +187,30 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 
   **Referencias:**
   > - 📕 - [Saiba como limpar e recuperar objetos após uma enchente](https://www.youtube.com/watch?v=4QRxIcmjWqY)
+  > - 📕 - [Saiba como limpar móveis e utensílios domésticos depois do temporal](https://g1.globo.com/jornalhoje/0,,MUL1418937-16022,00-SAIBA+COMO+LIMPAR+MOVEIS+E+UTENSILIOS+DOMESTICOS+DEPOIS+DO+TEMPORAL.html#:~:text=Desmonte%20todas%20as%20pe%C3%A7as%20do,meio%20copo%20de%20%C3%A1gua%20sanit%C3%A1ria.)
+  > - 📕 - C
+
+**________________________________________________________________________________________________________________________________________________________**
+
+### Fogão
+
+  **Procedimento:**
+  Desmonte todas as peças do fogão Para que a matéria orgânica da enchente não fique presa nos cantinhos. Tire todas as peças, lave com água e sabão e depois com a solução meio a meio de água sanitária, que é mais forte e eficiente, meio copo de água com meio copo de água sanitária. Depois de meia hora, com um pano úmido limpe o fogão para tirar o resíduo de água sanitária se não ele ataca o aço do fogão.
+  
+  **Produtos necessários:**
+  1. Agua sanitária
+  2. Prod2
+  3. Prod3
+  
+  **Vídeo:**
+  
+  **Referencias:**
+  > - 📕 - [Saiba como limpar móveis e utensílios domésticos depois do temporal](https://g1.globo.com/jornalhoje/0,,MUL1418937-16022,00-SAIBA+COMO+LIMPAR+MOVEIS+E+UTENSILIOS+DOMESTICOS+DEPOIS+DO+TEMPORAL.html#:~:text=Desmonte%20todas%20as%20pe%C3%A7as%20do,meio%20copo%20de%20%C3%A1gua%20sanit%C3%A1ria.)
   > - 📕 - B
   > - 📕 - C
 
 **________________________________________________________________________________________________________________________________________________________**
+
 
 <!--  ################################################################################################################################################### -->
 <!--  ################################################################################################################################################### -->
