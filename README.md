@@ -95,15 +95,22 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 
 **________________________________________________________________________________________________________________________________________________________**
 
-### Instalação Elétrica (Quadro elétrico, etc)
+### Instalação Elétrica (Quadro elétrico, eletrodutos, etc)
 
   **Procedimento:**
-  Deve-se evacuar a caixa d´agua, abrindo todas as torneiras para tirar a agua contaminada, realizar uma limpeza, enchear a caixa d'agua com cloro na mesma proporção da solução de cloro, deixar de molho por 15 minutos e depois abrir todas as torneiras com esta solução para que seja feita a limpeza das tubulações.
-    
+  O video é bem longo mas muito completo. Vou destacar aqui alguns pontos para facilitar a revisão das ações, mas peço que olhem o vídeo.
+  Atenção: Antes de realizar qualquer uma destas manutenções, assegure que esta devidamente protegido e que não existe energia na rede com o uso de chave teste, por exemplo.
+  
+  - Quadro elétrico: Realizar a troca dos disjuntores, limpar e lixar os barramentos para remover qualquer oxidação utilizando também spray limpa contato, realizar o reaperto dos parafusos.
+  - Conduites: Se possivel utilizar ar comprimido para limpeza da agua que fica dentro dos conduites. Caso não, desentupidor com mola para verificar existencia de qualquer obstrução e aspirador de pó para sugar a agua do duto.
+  - Interruptores e tomadas: Realizar a limpeza bruta e uma limpeza detalhada com spray limpa contato.
+  
   **Produtos necessários:**
-  1. Solução de Cloro (1 litro de agua para 10 MLs de Cloro)
+  1. Spray limpa contato.
   
   **Vídeo:**
+
+  [REFORMA das INSTALAÇÕES ELÉTRICAS após ENCHENTE](https://www.youtube.com/watch?v=EkCXAClO0mA)
   
   **Referencias:**
   > - 📕 - [REFORMA das INSTALAÇÕES ELÉTRICAS após ENCHENTE](https://www.youtube.com/watch?v=EkCXAClO0mA)
