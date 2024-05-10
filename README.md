@@ -2,10 +2,10 @@
 
 Olá a todos,
 
-Esta página tem por objetivo tentar reunir o máximo de informações para ajudar as pessoas a como lidar com os itens afetados pela enchente que arrazou nosso RS. A idéia foi reunir o máximo de informações sobre como lidar com todos os móveis, eletronicos e demais itens afetados utilziando um no mínimo 3 fontes de referência, com o intuito de identificar formas realmente eficazes no tratamento dos itens afetados.
+Esta página tem por objetivo tentar reunir o máximo de informações para ajudar as pessoas a lidar com os itens afetados pela enchente que arrasou nosso RS. A ideia foi reunir o máximo de informações sobre como lidar com todos os móveis, eletrônicos e demais itens afetados utilizando mais de uma fonte de referência, com o intuito de identificar formas realmente eficazes no tratamento dos itens afetados.
 
 > [!IMPORTANT]
-> A ideia é somente ajudar! Caso algum dos métodos informados não tenha o resultado esperado pedimos desculpas, mas baseado em nossas pesquisas foi o que aparentemente atenderia. Esperamos ajudar de alguma forma, mas não podemos garantir o sucesso do processo.
+> A ideia é somente ajudar! Caso algum dos métodos informados não tenha o resultado esperado, pedimos desculpas, mas, com base em nossas pesquisas, foi o que aparentemente atenderia. Esperamos ajudar de alguma forma, mas não podemos garantir o sucesso do processo.
 
 
 Obrigado a todos e muita força nessa hora!
@@ -14,18 +14,18 @@ Obrigado a todos e muita força nessa hora!
 <!--  ################################################################################################ -->
 # Organização:
 
-Nesta seção vamos tentar descrever algumas idéias que podem ser utilizadas para organizar o processo de limpeza das casas afetadas. Como o recuo da água deve ser gradual, é possivel que determinadas atividades possam ser executadas em momentos distintos.
+Nesta seção, vamos tentar descrever algumas ideias que podem ser utilizadas para organizar o processo de limpeza das casas afetadas. Como o recuo da água deve ser gradual, é possível que determinadas atividades possam ser executadas em momentos distintos.
 
 ## Riscos:
 
 > [!CAUTION]
-> Leia atentamente aos itens a seguir, existem diversos riscos associados na situação em que estamos passando.
+> Leia atentamente os itens a seguir, existem diversos riscos associados na situação em que estamos passando.
 
-Em virtude desta situação alguns cuidados são essenciais:
+Em virtude desta situação, alguns cuidados são essenciais:
 
-1. Revisar a estrutura antes de acessar o local. Acessar o local pode ser muito perigoso, tanto pelo risco de contaminação na água como pela própria estrutura do imóvel.
-2. Utilizar equipamentos tais como luvas, botas, macacão, etc, para evitar o contato com a água. Não fique em contato com a água da enchente até mesmo durante a limpeza dos itens. Existe uma série de bacterias e doenças trazidas pela água como leptospirose e hepatite.
-3. Se desloque no mínimo em duplas, caso ocorra alguma eventualidade que pode necessitar de apoio imediato ou pedido de ajuda.
+1. Revisar a estrutura antes de acessar o local. Acessar o local pode ser muito perigoso, tanto pelo risco de contaminação na água quanto pela própria estrutura do imóvel.
+2. Utilizar equipamentos tais como luvas, botas, macacão, etc., para evitar o contato com a água. Não fique em contato com a água da enchente, mesmo durante a limpeza dos itens. Existe uma série de bactérias e doenças trazidas pela água, como leptospirose e hepatite.
+3. Desloque-se no mínimo em duplas, caso ocorra alguma eventualidade que possa necessitar de apoio imediato ou pedido de ajuda.
 
 
 ## Etapas de acesso ao imóvel:
@@ -33,12 +33,12 @@ Em virtude desta situação alguns cuidados são essenciais:
 Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser possivel realizar o acesso ao imóvel para determinadas ações.
 
 > [!CAUTION]
-> Já evidenciamos o poder da água em tirar vidas, não arrisque! Apesar dos níveis de abdomen e cintura serem citados nas etapas, só vá nestas condições se realmente for seguro.
-> Considere ainda que a sua casa pode estar com a estrutura em condições de risco. Tenha toda a cautela possivel.
+> Já evidenciamos o poder da água em tirar vidas, não arrisque! Apesar dos níveis de abdômen e cintura serem citados nas etapas, só vá nestas condições se realmente for seguro.
+> Considere ainda que a sua casa pode estar com a estrutura em condições de risco. Tenha toda a cautela possível.
 
 - Agua relativamente alta (no peito):
 
-  Se possivel, avaliar a estrutura do imovel e planejamento de acesso e ferramentas para as etapas seguintes. O ideal seria evitar esta etapa devido ao risco. 
+  Se possível, avaliar a estrutura do imóvel e planejar o acesso e as ferramentas para as etapas seguintes. O ideal seria evitar esta etapa devido ao risco. 
   
 - Agua nível médio (cintura):
 
@@ -46,11 +46,11 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
   
 - Agua na nível baixo (canela):
 
-  Limpeza do grosso com a própria agua da enchente e remoção de detritos e barro grosso se possivel. Remoção dos itens anteriores se ainda não foi possivel.
+  Limpeza do grosso com a própria agua da enchente e remoção de detritos e barro grosso, se possivel. Remoção dos itens anteriores se ainda não foi possivel.
   
 - Sem agua:
 
-  Limpeza total.
+  Limpeza total. Nesta etapa se deve buscar uma organização mais 
 
 <!--  ################################################################################################ -->
 <!--  ##########################################    LIMPEZA      ##################################### -->
