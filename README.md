@@ -50,7 +50,11 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
   
 - Sem agua:
 
-  Limpeza total. Nesta etapa se deve buscar uma organização mais 
+
+  Limpeza total. Nesta etapa, deve-se buscar uma organização mais elaborada, criando grupos que cuidem de diferentes frentes para melhor aproveitamento do tempo, por exemplo:
+  - Equipe de remoção de lixo
+  - Equipe de limpeza das roupas
+  - Equipe para limpeza dos móveis e eletrônicos.
 
 <!--  ################################################################################################ -->
 <!--  ##########################################    LIMPEZA      ##################################### -->
