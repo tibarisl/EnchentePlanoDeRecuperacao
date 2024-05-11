@@ -107,7 +107,7 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
   
   - Quadro elétrico: Realizar a troca dos disjuntores, limpar e lixar os barramentos para remover qualquer oxidação utilizando também spray limpa contato, realizar o reaperto dos parafusos.
   - Conduites: Se possivel utilizar ar comprimido para limpeza da agua que fica dentro dos conduites. Caso não, desentupidor com mola para verificar existencia de qualquer obstrução e aspirador de pó para sugar a agua do duto.
-  - Interruptores e tomadas: Realizar a limpeza bruta e uma limpeza detalhada com spray limpa contato.
+  - Interruptores e tomadas: O ideal é que todos sejam removidos para limpeza. Realizar a limpeza bruta e uma limpeza detalhada com spray limpa contato.
   
   **Produtos necessários:**
   1. Spray limpa contato.
@@ -131,7 +131,11 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
 ### Roupas
 
   **Procedimento:**
-  Tirar o grosso de sujeira das roupas. Após isso as roupas devem ser lavadas com agua fervida a 100 graus. Se não eliminar toda a sujeira, deve ser lavados novamente.
+  1. Remoção de lama/detritos – Em primeiro lugar é preciso remover todo lodo e sujeiras das roupas enxaguando as peças em água corrente. Essa é uma etapa muito importante de preparação para a lavagem.
+  2. Pré-lavagem – Depois da remoção inicial e antes de lavar as roupas, é útil fazer uma pré-lavagem para ajudar a soltar a sujeira mais pesada. Deixe as roupas de molho em água quente com um detergente suave por algumas horas ou durante a noite.
+  3. Lavagem – Em terceiro lugar, depois da limpeza prévia das peças, lave com água fervente e sabão neutro. Repita o processo de lavagem até a água não apresentar nenhum resquício de sujeira.
+  4. Secagem adequada – Por fim, na hora de secar as roupas, opte por locais com boa ventilação.
+  5. Inspeção – Após a secagem, verifique se as peças estão aptas para uso. Caso ainda estejam sujas, repita o processo de lavagem mais uma vez.
   
   **Produtos necessários:**
   1. Prod1
@@ -142,7 +146,7 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
   
   **Referencias:**
   > - 📕 - [Saiba como limpar e recuperar objetos após uma enchente](https://www.youtube.com/watch?v=4QRxIcmjWqY)
-  > - 📕 - B
+  > - 📕 - [Como recuperar roupas atingidas pela enchente](https://likemagazine.com.br/moda/como-recuperar-roupas-atingidas-pela-enchente/#:~:text=Deixe%20as%20roupas%20de%20molho,apresentar%20nenhum%20resqu%C3%ADcio%20de%20sujeira.)
   > - 📕 - C
 
 ### Sofá
@@ -174,8 +178,6 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
   
   **Produtos necessários:**
   1. Sabão
-  2. Prod2
-  3. Prod3
   
   **Vídeo:**
   
@@ -227,8 +229,6 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
   
   **Produtos necessários:**
   1. Agua sanitária
-  2. Prod2
-  3. Prod3
   
   **Vídeo:**
   
