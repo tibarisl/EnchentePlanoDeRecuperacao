@@ -46,15 +46,14 @@ Como o recuo da água deve ser gradual, em diferentes níveis de água deve ser 
   
 - Agua na nível baixo (canela):
 
-  Limpeza do grosso com a própria agua da enchente e remoção de detritos e barro grosso, se possivel. Remoção dos itens anteriores se ainda não foi possivel.
+  Remoção dos itens anteriores se ainda não foi possivel.
   
 - Sem agua:
 
-
   Limpeza total. Nesta etapa, deve-se buscar uma organização mais elaborada, criando grupos que cuidem de diferentes frentes para melhor aproveitamento do tempo, por exemplo:
-  - Equipe de remoção de lixo
-  - Equipe de limpeza das roupas
-  - Equipe para limpeza dos móveis e eletrônicos.
+  - Grupo de remoção de lixo
+  - Grupo de limpeza das roupas
+  - Grupo para limpeza dos móveis e eletrônicos.
 
 <!--  ################################################################################################ -->
 <!--  ##########################################    LIMPEZA      ##################################### -->
